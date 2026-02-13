@@ -8,7 +8,7 @@ This project forecasts monthly international tourist arrivals to the United Stat
 
 The project was completed as part of EN.625.695 – Time Series Analysis at Johns Hopkins University.
 
-This repository contains the forecasting and model implementation portion of the group project, focusing on ARMA, ARIMA, and SARIMA model evaluation and forecasting.
+This repository contains the model section, forecasting, and model implementation portion of the group project, focusing on ARMA, ARIMA, and SARIMA model evaluation and forecasting.
 
 Objective:
 Model monthly inbound tourism data from 1996–2023
